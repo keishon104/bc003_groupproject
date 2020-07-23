@@ -28,7 +28,7 @@ class Body extends Component {
             <InputGroup.Text id="basic-addon1">S</InputGroup.Text>
           </InputGroup.Prepend>
           <FormControl
-            placeholder="How much should you budget for Toys?"
+            placeholder="How much should you budget for Savings?"
             aria-label="Username"
             aria-describedby="basic-addon1"
           />
@@ -39,7 +39,7 @@ class Body extends Component {
             <InputGroup.Text id="basic-addon1">C</InputGroup.Text>
           </InputGroup.Prepend>
           <FormControl
-            placeholder="How much should you budget for Toys?"
+            placeholder="How much should you budget for Candy?"
             aria-label="Username"
             aria-describedby="basic-addon1"
           />
