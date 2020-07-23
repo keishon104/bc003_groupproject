@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {Button, InputGroup, FormControl} from 'react-bootstrap';
+import {InputGroup, FormControl} from 'react-bootstrap';
 import './body.css';
 
 
