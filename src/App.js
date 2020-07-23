@@ -3,6 +3,7 @@ import Header from './components/header/header';
 import Body from './components/body/body';
 import {Container} from 'react-bootstrap';
 import './App.css';
+import Piechart from './components/piechart/piechart';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Container className="ContainerWrap">
       <Header/>
         <Body/>
+        <Piechart/>
       </Container>
     </div>
   );
