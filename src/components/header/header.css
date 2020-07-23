@@ -1,0 +1,14 @@
+.header {
+    color: black;
+    background-color: rgb(255, 218, 6);
+    height: 50px;
+    font-size: 2em;
+    text-align: center;
+    font-family: monospace;
+      }
+  
+  .header img {
+    height: 60px;
+    vertical-align: middle;
+    align-self: center;
+  }
