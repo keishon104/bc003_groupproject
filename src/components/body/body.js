@@ -6,7 +6,10 @@ import './body.css';
 
 class Body extends Component {
 
+  checkAnswer = () => {
+    console.log("Button Works");
 
+  };
 
 
   render() {
