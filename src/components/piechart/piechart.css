@@ -1,8 +1,17 @@
 .radial {
     color: blue; color: blueviolet; color: coral;
-    text-align: initial;
-    text-rendering: optimizeLegibility;
-    word-spacing: unset;
+    text-align: start;
+    text-rendering: geometricPrecision;
+    word-spacing: 0rem;
     background-color: none;
-    font-size: x-large;
+    font-size: smaller;
+    fill:red;
+    align-items: baseline;
+
+  }
+
+  .subLabel {
+    text-align: inherit;
+    text-rendering: optimizeLegibility;
+    fill:red;
   }
